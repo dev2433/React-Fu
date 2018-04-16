@@ -1,0 +1,29 @@
+{
+  "name": "Scrape Web",
+  "version": "1.0.0",
+  "description": "Week 18 Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev2433/webScrape.git"
+  },
+  "author": "Jessica Gilligan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev2433/webScrape/issues"
+  },
+  "homepage": "https://github.com/dev2433/webScrape#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "mongojs": "^2.4.0",
+    "mongoose": "^4.10.4",
+    "morgan": "^1.8.2",
+    "request": "^2.81.0"
+  }
+}
